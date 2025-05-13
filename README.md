@@ -3,7 +3,7 @@ this project can store your websites username and passwords offline and also ana
 
 
 
-readme_content = """
+
 # 📚 Secure Password Manager
 
 A simple yet secure password manager built with **Python** and **Tkinter**, using **Fernet encryption** to safely store your credentials.  
