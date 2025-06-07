@@ -1,6 +1,6 @@
-# 🔐 Secure Password Manager (.exe Version)
+# 🔐 Secure Password Manager 
 
-A lightweight, secure password manager for Windows — no installation required. Simply run the `.exe` and manage your website credentials securely and offline.
+A lightweight, secure password manager for Windows — no installation required. Simply run the application and manage your website credentials securely offline.
 
 ---
 
@@ -16,10 +16,10 @@ All stored data is **encrypted**, and the app runs without needing internet or a
 
 ## 🖥️ Features
 - **Master Password Protection** – your vault is locked with a secure password
-- **Local Encryption** – passwords are encrypted using strong cryptography (Fernet)
+- **Local Encryption** – passwords are encrypted using strong cryptography
 - **Password Strength Checker** – evaluates password quality and crack resistance
-- **Simple Interface** – clean and intuitive GUI (no console required)
-- **Portable** – just run the `.exe` (no install, no Python required)
+- **Simple Interface** – clean and intuitive GUI 
+- **Portable** – just click the application and it will run without any insallation
 
 ---
 
@@ -30,12 +30,12 @@ All stored data is **encrypted**, and the app runs without needing internet or a
 | `master.key`     | Contains hashed & salted master password  |
 | `key.key`        | Encryption key used to encrypt/decrypt    |
 
-> These files are created in the same directory where the `.exe` is run.
+> These files are created in the same directory where the application is run.
 
 ---
 
 ## 🚀 How to Use
-1. **Double-click the `.exe` file**
+1. **Double-click the application file**
 2. Set a **master password** (first-time use)
 3. Enter website credentials
 4. Save them securely
